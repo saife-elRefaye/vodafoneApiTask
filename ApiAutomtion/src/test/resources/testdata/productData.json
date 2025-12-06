@@ -1,0 +1,13 @@
+{
+  "create": {
+    "title": "New Product",
+    "price": 29.99
+  },
+  "update": {
+    "title": "Updated Product Title",
+    "price": 49.99,
+    "description": "Updated product details from JSON",
+    "category": "electronics",
+    "image": "http://example.com/updated_from_json.jpg"
+  }
+}
